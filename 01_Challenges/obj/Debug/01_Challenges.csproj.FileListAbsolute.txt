@@ -1,0 +1,14 @@
+C:\ElevenFiftyProjects\01_Challenges\CSharpFundamentals\01_Challenges\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\ElevenFiftyProjects\01_Challenges\CSharpFundamentals\01_Challenges\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\ElevenFiftyProjects\01_Challenges\CSharpFundamentals\01_Challenges\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\ElevenFiftyProjects\01_Challenges\CSharpFundamentals\01_Challenges\bin\Debug\01_Challenges.dll
+C:\ElevenFiftyProjects\01_Challenges\CSharpFundamentals\01_Challenges\bin\Debug\01_Challenges.pdb
+C:\ElevenFiftyProjects\01_Challenges\CSharpFundamentals\01_Challenges\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\ElevenFiftyProjects\01_Challenges\CSharpFundamentals\01_Challenges\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\ElevenFiftyProjects\01_Challenges\CSharpFundamentals\01_Challenges\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\ElevenFiftyProjects\01_Challenges\CSharpFundamentals\01_Challenges\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\ElevenFiftyProjects\01_Challenges\CSharpFundamentals\01_Challenges\obj\Debug\01_Challenges.csprojAssemblyReference.cache
+C:\ElevenFiftyProjects\01_Challenges\CSharpFundamentals\01_Challenges\obj\Debug\01_Challenges.csproj.CoreCompileInputs.cache
+C:\ElevenFiftyProjects\01_Challenges\CSharpFundamentals\01_Challenges\obj\Debug\01_Challenges.csproj.CopyComplete
+C:\ElevenFiftyProjects\01_Challenges\CSharpFundamentals\01_Challenges\obj\Debug\01_Challenges.dll
+C:\ElevenFiftyProjects\01_Challenges\CSharpFundamentals\01_Challenges\obj\Debug\01_Challenges.pdb
